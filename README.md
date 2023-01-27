@@ -5,7 +5,7 @@ If you get the desired score of 21, you "win", and 50 bonus chips will be added 
 If you "bust" and your score is over 21 you will not be able to get a new card. You will, however, be able to click start game to start a new hand and try to get 21. 
 Happy playing!
 
-UPDATES TO COME:
+UPDATES TO COME: <br>
 User can add their name a pop up field <br>
 Alerts when you win or bust <br>
 When you bust you lose 10 chips <br>
