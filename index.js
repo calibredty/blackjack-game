@@ -64,5 +64,10 @@ function newCard () {
 }
 }
 
-
+function bonusChips() {
+  if (hasBlackJack === true) {
+  chips += 50
+  playerEl.textContent = player.name + ": $" + chips
+}
+}
 
