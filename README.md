@@ -6,7 +6,7 @@ If you "bust" and your score is over 21 you will not be able to get a new card. 
 Happy playing!
 
 UPDATES TO COME:
-User can add their name a pop up field 
-Alerts when you win or bust 
-When you bust you lose 10 chips
+User can add their name a pop up field <br>
+Alerts when you win or bust <br>
+When you bust you lose 10 chips <br>
 A computer player 
